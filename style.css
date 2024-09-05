@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#fortuneDisplay {
+    padding: 5px;
+    border: 1px solid #000;
+    margin: 10px auto;
+    width: 300px;
+    font-size: 1.2em;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+}
